@@ -82,9 +82,24 @@ The code  is drafted to retrieve the full-resolution image URL and title for eac
 
 ## Deliverable 3: Add Bootstrap 3 Components
 
-#### ipad view of webpage 
+Finally, The webpage is mobile-responsive. Added as advised  Bootstrap 3 components which were used to style the webpage.
+
+#### ipad view of webpage
+
+
+<img width="514" alt="Screen Shot 2021-03-04 at 11 12 12 PM" src="https://user-images.githubusercontent.com/75267605/110066402-56f15400-7d3f-11eb-8479-cc1dd7a655a2.png">
+
+
+
+
+<img width="511" alt="Screen Shot 2021-03-04 at 11 12 27 PM" src="https://user-images.githubusercontent.com/75267605/110066413-5eb0f880-7d3f-11eb-8121-78a67e5f9d53.png">
+
+
+
+
 
 <img width="386" alt="Ipad view of webpage" src="https://user-images.githubusercontent.com/75267605/110063200-b1d37d00-7d38-11eb-948a-dfd972201b0c.png">
+
 
 
 #### Ipad image of Mars Hemispheres
