@@ -13,34 +13,11 @@ Mission to mars
 
 ### Step 3 
 
-
-#### image 1- Cerberus Hemisphere Enhanced
-
-
-![Cerberus Hemisphere Enhanced](https://user-images.githubusercontent.com/75267605/110051880-9cecee80-7d24-11eb-98b4-88a51feb5186.jpg)
-
-
-#### Image 2- Schiaparelli Hemisphere Enhanced
-
-
-![Schiaparelli Hemisphere Enhanced](https://user-images.githubusercontent.com/75267605/110052032-e2112080-7d24-11eb-83f7-7e9058189c17.jpg)
-
-
-
-#### Image 3- Syrtis Major Hemisphere Enhanced
-
-
-
-![Syrtis Major Hemisphere Enhanced](https://user-images.githubusercontent.com/75267605/110052140-14228280-7d25-11eb-8d15-9f890317289e.jpg)
-
-
-
-#### Image 4-
-
-![Valles Marineris Hemisphere Enhanced](https://user-images.githubusercontent.com/75267605/110052190-2f8d8d80-7d25-11eb-93b4-c4a5e1456d17.jpg)
-
+The code  is drafted to retrieve the full-resolution image URL and title for each hemisphere image. The full-resolution image is provided as part of the deliverable #2 below
 
 ### Step 4- The list of dictionary items
+
+
 
 
 
@@ -53,6 +30,45 @@ Mission to mars
 
 ## Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
 
+#### 1. The scraping.py file is updated with  code that is drafted to retrieve the full-resolution image URL and title for each hemisphere image. the file is part of this submittal.
+
+#### 2. The Mongo database is updated to contain the full-resolution image URL and title for each hemisphere image as required. The snap show of the terminal is attached below:
+
+
+<img width="1675" alt="Screen Shot 2021-03-04 at 10 46 46 PM" src="https://user-images.githubusercontent.com/75267605/110064998-3bd11500-7d3c-11eb-934a-e49da7f435c0.png">
+
+
+
+#### 3. The index.html file is updated and drafted with code that display the full-resolution image URL and title for each hemisphere image. the images as recieved are part of this documents 
+
+##### 4. After the scraping has been completed, the web app contains all the information from this module and the full-resolution images and titles for the four hemisphere images 
+
+
+
+### image 1- Cerberus Hemisphere Enhanced
+
+
+![Cerberus Hemisphere Enhanced](https://user-images.githubusercontent.com/75267605/110051880-9cecee80-7d24-11eb-98b4-88a51feb5186.jpg)
+
+
+### Image 2- Schiaparelli Hemisphere Enhanced
+
+
+![Schiaparelli Hemisphere Enhanced](https://user-images.githubusercontent.com/75267605/110052032-e2112080-7d24-11eb-83f7-7e9058189c17.jpg)
+
+
+
+### Image 3- Syrtis Major Hemisphere Enhanced
+
+
+
+![Syrtis Major Hemisphere Enhanced](https://user-images.githubusercontent.com/75267605/110052140-14228280-7d25-11eb-8d15-9f890317289e.jpg)
+
+
+
+### Image 4-Valles Marineris Hemisphere Enhanced
+
+![Valles Marineris Hemisphere Enhanced](https://user-images.githubusercontent.com/75267605/110052190-2f8d8d80-7d25-11eb-93b4-c4a5e1456d17.jpg)
 
 
 
