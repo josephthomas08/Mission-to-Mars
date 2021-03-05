@@ -1,6 +1,10 @@
 # Mission-to-Mars
 Mission to mars 
 
+# Purpose 
+
+the purpose of the project was to build an app to automate the  scrape activty of data from website for our mission to mars projects and then follw it with building a html page to display our findings 
+
 ## Deliverable 1: Scrape High-Resolution Mars Hemisphere Images and Titles
 
 
