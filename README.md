@@ -39,7 +39,7 @@ The code  is drafted to retrieve the full-resolution image URL and title for eac
 #### 2. The Mongo database is updated to contain the full-resolution image URL and title for each hemisphere image as required. The snap show of the terminal is attached below:
 
 
-<img width="1016" alt="Screen Shot 2021-03-07 at 12 05 56 PM" src="https://user-images.githubusercontent.com/75267605/110248121-866daf80-7f3d-11eb-9220-fb182b4a81f3.png">
+<img width="1021" alt="Screen Shot 2021-03-07 at 12 07 22 PM" src="https://user-images.githubusercontent.com/75267605/110248162-b2893080-7f3d-11eb-8aa3-8cd192d2de31.png">
 
 
 <img width="1675" alt="Screen Shot 2021-03-04 at 10 46 46 PM" src="https://user-images.githubusercontent.com/75267605/110064998-3bd11500-7d3c-11eb-934a-e49da7f435c0.png">
